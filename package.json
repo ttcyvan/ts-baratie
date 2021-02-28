@@ -1,7 +1,7 @@
 {
   "name": "typescript-starter",
   "version": "1.0.0",
-  "description": "Esteban starter typescript",
+  "description": "starter typescript",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
